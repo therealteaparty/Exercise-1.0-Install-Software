@@ -1,4 +1,4 @@
-# Exercise 01a: Install Software
+# Exercise 01: Install Software
 
 ## My name is:
 Tea Held
